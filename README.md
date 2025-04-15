@@ -6,3 +6,5 @@ Put the script in the same location as your PDF document and password list. Chan
 pip install PyPDF2
 
 python crack_pdf_password.py
+
+Use crack_pdf_password_multi.py for multithreading.
